@@ -1,0 +1,53 @@
+{
+  "elementary": [
+    {
+        "question": "What geometric figure has three corners?",
+        "answers": ["circle", "square", "triangle", "qube"],
+        "correctAnswer": "triangle"
+    },
+    {
+        "question": "What is the capital of USA?",
+        "answers": ["London", "New-York", "Washington", "Paris"],
+        "correctAnswer": "Washington"
+    },
+    {
+        "question": "Who wrote 'Alice in wonderland'?",
+        "answers": ["Lewis Carrol", "Jack London", "Tibor Fisher", "Haruki Murakami"],
+        "correctAnswer": "Lewis Carrol"
+    }
+   ],
+"middle" : [
+    {
+        "question": "What is the capital of France?",
+        "answers": ["London", "New-York", "Washington", "Paris"],
+        "correctAnswer": "Paris"
+    },
+    {
+        "question": "Who wrote 'Martin Iden'",
+        "answers": ["Lewis Carrol", "Jack London", "Tibor Fisher", "Haruki Murakami"],
+        "correctAnswer": "Jack London"
+    },
+    {
+        "question": "What geometric figure has four corners?",
+        "answers": ["circle", "square", "triangle", "qube"],
+        "correctAnswer": "square"
+    }
+   ],
+"advanced" : [
+    {
+        "question": "What geometric figure has no corners?",
+        "answers": ["circle", "square", "triangle", "qube"],
+        "correctAnswer": "circle"
+    },
+    {
+        "question": "Who wrote 'Good to be God'?",
+        "answers": ["Lewis Carrol", "Jack London", "Tibor Fisher", "Haruki Murakami"],
+        "correctAnswer": "Tibor Fisher"
+    },
+    {
+        "question": "What is the capital of Great Britain?",
+        "answers": ["London", "New-York", "Washington", "Paris"],
+        "correctAnswer": "London"
+    }
+   ]
+}

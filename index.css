@@ -1,0 +1,40 @@
+*{box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+body{ 
+    width: 100%;
+    background-color: rgb(240, 150, 16);
+}
+.wrapper{
+    width: 70%;
+    height: 700px;
+    margin: 70px auto;
+    background-color: blanchedalmond;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-content: space-around;
+}
+h1{
+    line-height: 40px;
+    align-self: center;
+}
+h2{
+    align-self: center;
+}
+.levels{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.btn{
+    width: 130px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: cadetblue;
+}
